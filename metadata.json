@@ -1,0 +1,6 @@
+{
+  "name": "Rewear",
+  "description": "Minimalist secondhand fashion discovery for pre-loved clothing in Singapore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
