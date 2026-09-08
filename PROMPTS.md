@@ -1,3 +1,9 @@
+# Rewear
+
+Created by Nguyen Tran Nhat Minh
+MGMT6110 Human-AI Collaboration
+Problem Set 1
+
 # Prompt Log
 
 This file records the prompts I used while building Rewear in Google AI Studio.
