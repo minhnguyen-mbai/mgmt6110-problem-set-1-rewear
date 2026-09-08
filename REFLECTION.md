@@ -1,3 +1,9 @@
+# Rewear
+
+Created by Nguyen Tran Nhat Minh
+MGMT6110 Human-AI Collaboration
+Problem Set 1
+
 # Reflection
 
 ## Q1 — Who are your users, and what changes for them?
