@@ -1,6 +1,6 @@
 # Rewear — Secondhand Fashion Discovery
 
-**Student:** Minh Nguyen
+**Student:** Nguyen Tran Nhat Minh
 **Course:** MGMT 6110 Human-AI Collaboration, SMU
 **Assignment:** Individual Problem Set 1
 **Built with:** Google AI Studio (specify → judge → iterate → ship)
